@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
     ListView listView;
     String myTitle[]={"motu","patlu","khansaab","Ravi","chinu"};
     String myDescription[]={"Kamal ka Insaan","Kamal ka Insaan","Kamal ka Insaan","Kamal ka Insaan","Kamal ka Insaan"};
+    String gender[]={"male","male","male","male","male"};
     int images[]={R.drawable.picatme,R.drawable.picatme,R.drawable.picatme,R.drawable.picatme,R.drawable.picatme};
 
     //
